@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/swop-front-end2/static/css/main.255c6837.chunk.css",
-    "main.js": "/swop-front-end2/static/js/main.e9266868.chunk.js",
-    "main.js.map": "/swop-front-end2/static/js/main.e9266868.chunk.js.map",
-    "runtime~main.js": "/swop-front-end2/static/js/runtime~main.25aff668.js",
-    "runtime~main.js.map": "/swop-front-end2/static/js/runtime~main.25aff668.js.map",
-    "static/js/2.78d413d3.chunk.js": "/swop-front-end2/static/js/2.78d413d3.chunk.js",
-    "static/js/2.78d413d3.chunk.js.map": "/swop-front-end2/static/js/2.78d413d3.chunk.js.map",
-    "index.html": "/swop-front-end2/index.html",
-    "precache-manifest.1751b76aa0f5c03c45fceddbbbb3a64b.js": "/swop-front-end2/precache-manifest.1751b76aa0f5c03c45fceddbbbb3a64b.js",
-    "service-worker.js": "/swop-front-end2/service-worker.js",
-    "static/css/main.255c6837.chunk.css.map": "/swop-front-end2/static/css/main.255c6837.chunk.css.map"
+    "main.css": "/swop/static/css/main.255c6837.chunk.css",
+    "main.js": "/swop/static/js/main.37c96344.chunk.js",
+    "main.js.map": "/swop/static/js/main.37c96344.chunk.js.map",
+    "runtime~main.js": "/swop/static/js/runtime~main.b3377398.js",
+    "runtime~main.js.map": "/swop/static/js/runtime~main.b3377398.js.map",
+    "static/js/2.70b46e11.chunk.js": "/swop/static/js/2.70b46e11.chunk.js",
+    "static/js/2.70b46e11.chunk.js.map": "/swop/static/js/2.70b46e11.chunk.js.map",
+    "index.html": "/swop/index.html",
+    "precache-manifest.8eecce8340a32df82760cad5562eee5e.js": "/swop/precache-manifest.8eecce8340a32df82760cad5562eee5e.js",
+    "service-worker.js": "/swop/service-worker.js",
+    "static/css/main.255c6837.chunk.css.map": "/swop/static/css/main.255c6837.chunk.css.map"
   }
 }
