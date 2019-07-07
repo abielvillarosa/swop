@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/swop/static/css/main.255c6837.chunk.css",
-    "main.js": "/swop/static/js/main.b1b601a4.chunk.js",
-    "main.js.map": "/swop/static/js/main.b1b601a4.chunk.js.map",
+    "main.js": "/swop/static/js/main.6e06def9.chunk.js",
+    "main.js.map": "/swop/static/js/main.6e06def9.chunk.js.map",
     "runtime~main.js": "/swop/static/js/runtime~main.b3377398.js",
     "runtime~main.js.map": "/swop/static/js/runtime~main.b3377398.js.map",
-    "static/js/2.70b46e11.chunk.js": "/swop/static/js/2.70b46e11.chunk.js",
-    "static/js/2.70b46e11.chunk.js.map": "/swop/static/js/2.70b46e11.chunk.js.map",
+    "static/js/2.99703449.chunk.js": "/swop/static/js/2.99703449.chunk.js",
+    "static/js/2.99703449.chunk.js.map": "/swop/static/js/2.99703449.chunk.js.map",
     "index.html": "/swop/index.html",
-    "precache-manifest.e46fee3fb620ae22c59bf0042f227757.js": "/swop/precache-manifest.e46fee3fb620ae22c59bf0042f227757.js",
+    "precache-manifest.00cb4a9c53893643621e9a0a8763a479.js": "/swop/precache-manifest.00cb4a9c53893643621e9a0a8763a479.js",
     "service-worker.js": "/swop/service-worker.js",
-    "static/css/main.255c6837.chunk.css.map": "/swop/static/css/main.255c6837.chunk.css.map"
+    "static/css/main.255c6837.chunk.css.map": "/swop/static/css/main.255c6837.chunk.css.map",
+    "static/media/swoplogo.gif": "/swop/static/media/swoplogo.6314ac18.gif"
   }
 }
